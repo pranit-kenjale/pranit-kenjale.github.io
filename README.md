@@ -1,2 +1,2 @@
 # Pranit Kenjale
-Portfolio website using GitHub pages.
+Portfolio web module using GitHub pages.
